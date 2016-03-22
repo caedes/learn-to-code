@@ -6,6 +6,7 @@ This is a simple repository to explain and list some useful tools and techniques
 
 * [Atom](#atom)
 * [Git](#git)
+* [Markdown](#markdown)
 * [Terminal](#terminal)
 
 ### Atom
@@ -19,6 +20,12 @@ This is a simple repository to explain and list some useful tools and techniques
 [Git](https://git-for-windows.github.io/) is a widely used source code management system for software development.
 
 **[Learn Git tricks.](git.md)**
+
+### Markdown
+
+[Markdown](http://www.markdowntutorial.com/) syntax is intended to be as easy-to-read and easy-to-write as is feasible.
+
+**[Learn Markdown tricks.](markdown.md)**
 
 ### Terminal
 
