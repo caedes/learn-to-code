@@ -2,6 +2,12 @@
 
 This is a simple repository to explain and list some useful tools and techniques to learn how to code.
 
+## TOC
+
+* [Atom](#atom)
+* [Git](#git)
+* [Terminal](#terminal)
+
 ### Atom
 
 [Atom.io](https://atom.io/) is a simple and hackable text editor that can give you some useful features.
