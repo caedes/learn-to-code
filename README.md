@@ -6,6 +6,7 @@ This is a simple repository to explain and list some useful tools and techniques
 
 * [Atom](#atom)
 * [Git](#git)
+* [HTML](#html)
 * [Markdown](#markdown)
 * [Terminal](#terminal)
 
@@ -20,6 +21,12 @@ This is a simple repository to explain and list some useful tools and techniques
 [Git](https://git-for-windows.github.io/) is a widely used source code management system for software development.
 
 **[Learn Git tricks.](git.md)**
+
+### HTML
+
+[HTML](https://developer.mozilla.org/en-US/docs/Glossary/HTML) is the standard markup language used to create web pages with CSS, and JavaScript.
+
+**[Learn HTML tricks.](html.md)**
 
 ### Markdown
 
